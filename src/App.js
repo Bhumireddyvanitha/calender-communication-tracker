@@ -13,7 +13,7 @@ function App() {
       <Router>
         <div className="app-container">
           <nav className="main-navigation">
-            <div className="logo">Engage Calendar</div>
+            <div className="logo">Calender Communication Tracker</div>
             <ul className="nav-links">
               <li>
                 <Link to="/">Dashboard</Link>
